@@ -1,0 +1,36 @@
+.carousel{
+    height: 600px;
+}
+
+.servicio{
+    width: 100%;
+    height: 200px;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+}
+
+#propiedades{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+
+#casas{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.img-prop{
+    width: 100%;
+    height: 300px;
+}
